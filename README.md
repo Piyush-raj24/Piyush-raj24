@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a> 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Piyush_Raj">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Student+%7C+Lifelong+Learner;Currently+learning+something+new;Curious+about+tech+%26+building+things;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
   </a>
 </p>
