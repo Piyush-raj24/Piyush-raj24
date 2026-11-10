@@ -9,7 +9,6 @@
 - Ask me about development and electronics hardware.
 - How to reach me: ppiyushrraj@gmail.com.
 - Pronouns: Polygenesis
-- Fun fact: lazy but can do smart work.
 
 ##  Tech Stack
 
